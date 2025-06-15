@@ -1,2 +1,3 @@
-# Dagadushet
-Pass Booking Application
+# dagadushet_app
+
+A new Flutter project.

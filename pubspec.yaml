@@ -1,0 +1,34 @@
+name: dagadushet_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  carousel_slider: ^5.0.0
+  cloud_firestore: ^5.5.0
+  firebase_auth: ^5.3.3
+  firebase_core: ^3.8.0
+  flutter:
+    sdk: flutter
+  flutter_rating_bar: ^4.0.1
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/festival/coconut_festival/
+    - assets/festival/grapes_festival/
+    - assets/festival/mango_festival/
+    - assets/festival/mogra_festival/
+    - assets/festival/sunflower_festival/
+    - assets/festival/ganesh_chaturthi/
+    - assets/home/
