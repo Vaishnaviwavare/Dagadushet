@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477498744600",
+    "project_id": "flutter-project-73f36",
+    "storage_bucket": "flutter-project-73f36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477498744600:android:265020592f42cf72e8c86d",
+        "android_client_info": {
+          "package_name": "com.example.dagadushet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqNmQTiH5Y4c6JCFQE6c2TkpNc7pSxoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
